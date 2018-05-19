@@ -14,5 +14,5 @@ This is a landing_page
 
 ## Screeshot:
 
-![Alt Text](https://github.com/khupym/landing_page/tree/master/landing%20first/images)
+![Alt Text](https://github.com/khupym/landing_page/tree/master/landing%20first/images/Untitled-1.jpg)
 
